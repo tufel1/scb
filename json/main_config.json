@@ -1,0 +1,215 @@
+[
+    {
+      "field_data": {
+        "Student_Registration": {
+          "Student_Basic_Deatils": {
+            "data": [
+              {
+                "_id": 1,
+                "lable_name": "Student Name",
+                "field_name": "std_name",
+                "field_type": "text",
+                "field_priority": "1",
+                "field_event": "",
+                "field_css": "width:50%",
+                "req_type":"yes"
+              },
+              {
+                "_id": 2,
+                "lable_name": "Mobile No",
+                "field_name": "std_phone",
+                "field_type": "number",
+                "field_priority": "2",
+                "field_event": "",
+                "field_css": "width:50%",
+                "req_type":"yes"
+              },
+              {
+                "_id": 3,
+                "lable_name": "Date of Birth",
+                "field_name": "std_dob",
+                "field_type": "date",
+                "field_priority": "3",
+                "field_event": "",
+                "field_css": "width:50%",
+                "req_type":"yes"
+              }
+            ]
+          },
+          "Current_address": {
+            "data": [
+              {
+                "_id": 1,
+                "lable_name": "Address",
+                "field_name": "student_address",
+                "field_type": "text",
+                "field_priority": "1",
+                "field_event": "",
+                "field_css": "width:50%",
+                "req_type":"yes"
+              },
+              {
+                "_id": 2,
+                "lable_name": "Pincode",
+                "field_name": "student_pincode",
+                "field_type": "number",
+                "field_priority": "2",
+                "field_event": "",
+                "field_css": "width:50%",
+                "req_type":""
+              }
+            ]
+          },
+          "Student_Father_Details": {
+            "data": [
+              {
+                "_id": 1,
+                "lable_name": "Father Name",
+                "field_name": "student_father_name",
+                "field_type": "text",
+                "field_priority": "1",
+                "field_event": "",
+                "field_css": "width:50%",
+                "req_type":"yes"
+              },
+              {
+                "_id": 2,
+                "lable_name": "Father Mobile No",
+                "field_name": "student_father_mobile",
+                "field_type": "number",
+                "field_priority": "2",
+                "field_event": "",
+                "field_css": "width:50%",
+                "req_type":""
+              },
+              {
+                "_id": 2,
+                "lable_name": "Father Occupation",
+                "field_name": "student_father_occupation",
+                "field_type": "number",
+                "field_priority": "3",
+                "field_event": "",
+                "field_css": "width:50%",
+                "req_type":""
+              }
+            ]
+          },
+          "Student_Mother_Details": {
+            "data": [
+              {
+                "_id": 1,
+                "lable_name": "Mother Name",
+                "field_name": "student_mother_name",
+                "field_type": "text",
+                "field_priority": "1",
+                "field_event": "",
+                "field_css": "width:50%",
+                "req_type":"yes"
+              },
+              {
+                "_id": 2,
+                "lable_name": "Mother Mobile No",
+                "field_name": "student_mother_mobile",
+                "field_type": "number",
+                "field_priority": "2",
+                "field_event": "",
+                "field_css": "width:50%",
+                "req_type":""
+              },
+              {
+                "_id": 2,
+                "lable_name": "Mother Occupation",
+                "field_name": "student_mother_occupation",
+                "field_type": "number",
+                "field_priority": "3",
+                "field_event": "",
+                "field_css": "width:50%",
+                "req_type":""
+              }
+            ]
+          }
+        },
+        "Staff_registartion": {
+          "staff_basic_information": {
+            "data": [
+              {
+                "_id": 1,
+                "lable_name": "Name of the Employee",
+                "field_name": "staff_name",
+                "field_type": "text",
+                "field_priority": "1",
+                "field_event": "",
+                "field_css": "width:50%",
+                "req_type":"yes"
+              },
+              {
+                "_id": 2,
+                "lable_name": "Department",
+                "field_name": "staff_department",
+                "field_type": "text",
+                "field_priority": "2",
+                "field_event": "",
+                "field_css": "width:50%",
+                "req_type":"yes"
+              },
+              {
+                "_id": 3,
+                "lable_name": "Designation",
+                "field_name": "staff_designation",
+                "field_type": "text",
+                "field_priority": "3",
+                "field_event": "",
+                "field_css": "width:50%",
+                "req_type":"yes"
+              },
+              {
+                "_id": 4,
+                "lable_name": "Date Of Join",
+                "field_name": "staff_date_of_join",
+                "field_type": "text",
+                "field_priority": "4",
+                "field_event": "",
+                "field_css": "width:50%",
+                "req_type":"yes"
+              },
+              {
+                "_id": 5,
+                "lable_name": "Mobile Number",
+                "field_name": "staff_mobile",
+                "field_type": "number",
+                "field_priority": "5",
+                "field_event": "",
+                "field_css": "width:50%",
+                "req_type":""
+              }
+            ]
+          },
+          "Staff_Address_Information": {
+            "data": [
+              {
+                "_id": 1,
+                "lable_name": "Address",
+                "field_name": "staff_address",
+                "field_type": "text",
+                "field_priority": "1",
+                "field_event": "",
+                "field_css": "width:50%",
+                "req_type":""
+              },
+              {
+                "_id": 2,
+                "lable_name": "Pincode",
+                "field_name": "staff_pincode",
+                "field_type": "number",
+                "field_priority": "2",
+                "field_event": "",
+                "field_css": "width:50%",
+                "req_type":""
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+  

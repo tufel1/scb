@@ -1,0 +1,32 @@
+{
+  "Student_Registration": {
+    "Student_Basic_Deatils": {
+      "data": [
+        {
+          "_id": 1,
+          "lable_name": "Student Name",
+          "field_name": "std_name",
+          "field_type": "text",
+          "field_priority": "1",
+          "field_event": "",
+          "field_css": "width:50%"
+        }
+      ]
+    }
+  },
+  "Staff_registartion": {
+    "staff_basic_information": {
+      "data": [
+        {
+          "_id": 1,
+          "lable_name": "Name of the Employee",
+          "field_name": "staff_name",
+          "field_type": "text",
+          "field_priority": "1",
+          "field_event": "",
+          "field_css": "width:50%"
+        }
+      ]
+    }
+  }
+}

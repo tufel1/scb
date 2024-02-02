@@ -1,0 +1,108 @@
+{
+"status": 200,
+"count": 4,
+"data": [
+    {
+        "_id": "65aa70b09004af10cafcedec",
+        "institute_test_name": "create test",
+        "test_pattern": "Neet Exam",
+        "course_id": "5d14b391429e7911c890ca4b",
+        "test_details": {
+            "subjects_details": [
+                {
+                    "subject_name": "Physics",
+                    "are_all_questions_added_for_subject": false,
+                    "teacher_details": {
+                        "teacher_name": "AMIR"
+                    }
+                },
+                {
+                    "subject_name": "Chemistry",
+                    "are_all_questions_added_for_subject": false,
+                    "teacher_details": {
+                        "teacher_name": "AMIR"
+                    }
+                }
+            ]
+        },
+        "test_start_time": "2024-01-18T18:30:00.000Z",
+        "test_end_time": "2024-01-18T18:30:00.000Z",
+        "test_duration": 13,
+        "total_marks": 80,
+        "password": ""
+    },
+    {
+        "_id": "65aa1eb31b4aeab6a71f0824",
+        "institute_test_name": "test",
+        "test_pattern": "Neet Exam",
+        "course_id": "5d14b391429e7911c890ca4b",
+        "test_details": {
+            "subjects_details": [
+                {
+                    "subject_name": "Chemistry",
+                    "are_all_questions_added_for_subject": false,
+                    "teacher_details": {}
+                },
+                {
+                    "subject_name": "Physics",
+                    "are_all_questions_added_for_subject": false,
+                    "teacher_details": {}
+                }
+            ]
+        },
+        "test_start_time": "2024-01-18T18:30:00.000Z",
+        "test_end_time": "2024-01-18T18:30:00.000Z",
+        "test_duration": 12,
+        "total_marks": 80,
+        "password": ""
+    },
+    {
+        "_id": "65a93f2a7e8035c5e46735cf",
+        "institute_test_name": "NEET-Check-Tests-2",
+        "test_pattern": "PATTERN-TESTS-1",
+        "course_id": "5d1f3ea6d118dc2f7fa1ea1c",
+        "test_details": {
+            "subjects_details": [
+                {
+                    "subject_name": "Chemistry",
+                    "are_all_questions_added_for_subject": false,
+                    "teacher_details": {
+                        "teacher_name": "renu"
+                    }
+                },
+                {
+                    "subject_name": "Science",
+                    "are_all_questions_added_for_subject": true,
+                    "teacher_details": {
+                        "teacher_name": "pooja"
+                    }
+                }
+            ]
+        },
+        "test_start_time": "2024-01-18T08:00:06.405Z",
+        "test_end_time": "2024-01-20T08:00:06.405Z",
+        "test_duration": 40,
+        "total_marks": 60,
+        "password": "abcdefgh"
+    },
+    {
+        "_id": "65a93362995ae3aef718bbdf",
+        "institute_test_name": "Neet 2024",
+        "test_pattern": "Neet Exam",
+        "course_id": "5d14b391429e7911c890ca4b",
+        "test_details": {
+            "subjects_details": [
+                {
+                    "subject_name": "Physics",
+                    "are_all_questions_added_for_subject": false,
+                    "teacher_details": {}
+                }
+            ]
+        },
+        "test_start_time": "2024-01-17T18:30:00.000Z",
+        "test_end_time": "2024-01-18T14:40:00.000Z",
+        "total_marks": 80,
+        "password": "123456"
+    }
+]
+}
